@@ -14,7 +14,7 @@ public class Task3 {
 
         String[] words = phrase.split(" ");
 
-        for (int i = 0; i > words.length/2; i++) {
+        for (int i = 0; i < words.length/2; i++) {
             String temp = words[i];
             words[i] = words[words.length - 1 - i];
             words[words.length - 1 - i] = temp;
