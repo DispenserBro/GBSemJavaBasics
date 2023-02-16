@@ -13,7 +13,7 @@
 
 import java.util.Random;
 
-public class Task2 {
+public class Task112 {
     public static void main(String[] args) {
         int[] array = genRandomArray(20, 5);
         showArray(array);

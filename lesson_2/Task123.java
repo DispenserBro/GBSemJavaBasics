@@ -4,7 +4,7 @@ import java.io.FileWriter;
 import java.io.FileReader;
 import java.io.File;
 
-public class Task3 {
+public class Task123 {
     public static void main(String[] args) {
         Integer n = 10;
         String text = "TEST";

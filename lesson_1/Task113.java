@@ -3,7 +3,7 @@ import java.util.Scanner;
 
 //* Считать фразу и переставить слова в обратном порядке.
 
-public class Task3 {
+public class Task113 {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in, "cp866");
         System.out.print("Введите фразу: ");
